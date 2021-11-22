@@ -1,0 +1,1 @@
+#' QRreg: Linear and Ridge regression by QR decomposition
